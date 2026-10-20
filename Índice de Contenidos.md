@@ -1,6 +1,6 @@
 # Temas de teoría
 
-- [T01 - Fundamentos](teoria/T01%20-%20Fundamentos.md)
+- [T01 - Fundamentos](T01%20-%20Fundamentos.md)
 - [T02 - Modelo Relacional](teoria/T02%20-%20Modelo%20Relacional.md)
 - [T03 - Lenguajes Relacionales - Algebra Relacional y SQL](T03%20-%20Lenguajes%20Relacionales%20-%20Algebra%20Relacional%20y%20SQL.md)
 - [T04 - Normalizacion](teoria/T04%20-%20Normalizacion.md)
