@@ -12,7 +12,7 @@
 
 ## 1. Introducción
 
-(Esto es una prueba para push) Hoy en día, las bases de datos son esenciales para cualquier negocio. Todas las grandes empresas con presencia en internet (Google, Instagram, Amazon.com o miles de sitios más pequeños que ofrecen información) tienen una base de datos subyacente que proporciona la información que solicita el usuario. **Las empresas mantienen todos sus registros importantes en bases de datos**. 
+Hoy en día, las bases de datos son esenciales para cualquier negocio. Todas las grandes empresas con presencia en internet (Google, Instagram, Amazon.com o miles de sitios más pequeños que ofrecen información) tienen una base de datos subyacente que proporciona la información que solicita el usuario. **Las empresas mantienen todos sus registros importantes en bases de datos**. 
 
 Asimismo, las bases de datos son **fundamentales para muchas investigaciones científicas**. Representan los datos recopilados por astrónomos, investigadores del genoma humano y bioquímicos que exploran las propiedades de las proteínas, entre muchas otras actividades científicas.
 
