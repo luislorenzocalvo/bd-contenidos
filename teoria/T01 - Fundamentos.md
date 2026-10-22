@@ -65,8 +65,11 @@ flowchart TD
 >[!exercise]+ Ejercicio
 > Piensa en qué datos se necesitan guardar para una entidad Persona en los siguientes mini-mundos:
 >  - Un banco, representando esta entidad al cliente
+> 	 - Necesitaría el DNI, saber la edad, nombre, etc...
 >  - Una red social, representando esta entidad al usuario
+> 	 - Su usuario, la contraseña, edad, etc...
 >  - Un hospital, representando esta entidad al paciente
+> 	 - El número de la seguridad social, nombre, DNI, y demás datos medicos 
 
 ## 2. Modelos de datos
 
